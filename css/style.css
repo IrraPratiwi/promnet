@@ -1,0 +1,83 @@
+header {
+    background: #1a224b;
+    width: 86%;
+    margin: auto;
+    color: #fff;
+    line-height: 120px;
+    padding-left: 3%;
+}
+
+nav {
+    background: #1a224b;
+    line-height: 50px;
+    height: 50px;
+    position: relative;
+    width: 89%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    width: 60px;
+    float: left;
+    display: block;
+}
+
+#container {
+    width: 89%;
+    margin: auto;
+    min-height: 100px;
+    overflow: hidden;
+    background: white;
+    color: #333;
+}
+
+.kiri {
+    width: 69%;
+    float: left;
+    margin: auto;
+    background-color: #fff;
+}
+
+.content {
+    border: 2px solid #1a224b;
+    margin-top: 1pc;
+    padding-bottom: 1pc;
+    padding-left: 2pc;
+    padding-right: 2pc;
+}
+
+.kanan {
+    width: 29%;
+    float: right;
+    margin: auto;
+    background-color: #fff;
+    list-style: none;
+}
+
+.kanan h3{
+    border-bottom: 1px solid black;
+    padding-bottom: 3%;
+}
+
+.kanan a{
+    text-decoration: none;
+    line-height: 40px;
+    color: mediumblue;
+}
+
+footer h3 {
+    background: #1a224b;
+    width: 85%;
+    padding-left: 4%;
+    margin: 0 auto;
+    color: white;
+    line-height: 40px;
+    margin-top: 1%;
+}
